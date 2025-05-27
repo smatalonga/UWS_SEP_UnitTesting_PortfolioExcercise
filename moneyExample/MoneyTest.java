@@ -1,13 +1,13 @@
 
+package moneyExample;
+
 import java.beans.Transient;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 
-public package moneyExample;
 
-
-class MoneyTest {
+public class MoneyTest {
 
     @Test
     public void testMoneyCreation() {
